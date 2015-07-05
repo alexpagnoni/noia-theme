@@ -1,0 +1,10 @@
+<?xml version='1.0'?>
+<structure>
+
+    <catalog	name="amp_misc_noiatheme"	file="amp_misc_noiatheme.catalog"/>
+    <huitheme	name="noia"	file="noia.huitheme"	catalog="amp_misc_noiatheme"/>
+    <huicolorsset	name="noia"	file="noia.huicolorsset"	catalog="amp_misc_noiatheme"/>
+    <huistyle	name="noia"	file="noia.huistyle"	catalog="amp_misc_noiatheme"/>
+    <huiiconsset	name="noia"	file="noia.huiiconsset"	catalog="amp_misc_noiatheme"/>
+
+</structure>
